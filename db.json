@@ -1,0 +1,116 @@
+{
+    "novidades": [
+      {
+        "nome": "God of War - PC",
+        "preço": 199.99,
+        "capa": "https://www.mmsgames.com.br/imagem/index/29795622/G/god_of_war_2018_capa.png",
+        "trailer": "https://youtu.be/FyIwEFXOcaE",
+        "wallpaper": "https://image.api.playstation.com/vulcan/img/rnd/202010/2217/ax0V5TYMax06mLzmkWeQMiwH.jpg?w=440",
+        "slider": {
+          "img1": "https://www.psu.com/wp/wp-content/uploads/2019/01/god-of-war-boss-battles-1024x576.jpg",
+          "img2": "https://www.dualshockers.com/static/uploads/2021/10/god-of-war-ragnarok-watermark-screenshot-08-en-08sep21.jpg",
+          "img3": "https://blog.playstation.com/tachyon/2021/10/767a91b868d887d9c4da9d6b4adfaf715ce47101-scaled.jpg"
+        },
+        "estrelas": 5,
+        "detalhes": {
+          "produtora": "SCE Santa Monica", "plataforma": "PC", "formato": "Digital", "genero": "Ação, Aventura", "lançamento": "14 Janeiro de 2022"
+        }
+      },
+      {
+        "nome": "Far Cry 6",
+        "preço": 269.90,
+        "capa": "https://1.bp.blogspot.com/-w-ephsdAGrY/YMURrcMBDmI/AAAAAAAACI0/7tXL8bM8Su8J-g7wEAtBmR_k1KpmwXzKwCLcBGAsYHQ/s1024/WYVJ53XEnXHLsD9wIoTiO8uB.webp",
+        "trailer": "https://youtu.be/yzCZyJSGub4",
+        "wallpaper": "https://www.psu.com/wp/wp-content/uploads/2020/10/Far-Cry-6-PS5-Wallpapers-03-1.jpg",
+        "slider": {
+          "img1": "https://s2.glbimg.com/-qpnPeqCPTe09_QieVuNlUc4CCE=/0x0:3840x2160/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/J/R/3xyoJ7QZe1ya2TaoTLZw/far-cry-r-6-20211005161842.jpg",
+          "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qa-FUtd4b8UauRJbHw8w1BQqnunNWchgAw&usqp=CAU",
+          "img3": "https://media.distractify.com/brand-img/RtQUStkMU/0x0/fary-cry-6-yara-1633641972391.jpg"
+        },
+        "estrelas": 4,
+        "detalhes": {
+          "produtora": "Ubisoft", "plataforma": "PS4/PS5/XBOX ONE/XBOX SERIES X", "formato": "Blu-ray", "genero": "First Person Shooter (FPS)", "lançamento": "7 outubro 2021"
+        }
+      },
+      {
+        "nome": "Elden Ring - PS5",
+        "preço": 299.99,
+        "capa": "https://i2.wp.com/overplay.com.br/wp-content/uploads/2020/12/elden-ring.png?resize=555%2C555&ssl=1",
+        "trailer": "https://youtu.be/E3Huy2cdih0",
+        "wallpaper": "https://d2ofqe7l47306o.cloudfront.net/games/1366x768/elden-ring-22.jpg",
+        "slider": {
+          "img1": "https://gtprogamer.com.br/wp-content/uploads/2021/06/safe_image-1.jpg",
+          "img2": "https://adrenaline.com.br/uploads/chamadas/elden-ring-novos-gameplay.jpg",
+          "img3": "https://www.acusticafm.com.br/images/noticias/img_46866_foto_1_f.jpg"
+        },
+        "estrelas": 0,
+        "detalhes": {
+          "produtora": "Bandai Namco", "plataforma": "PS5", "formato": "Blu-ray", "genero": "Ação, RPG", "lançamento": "25 Fevereiro 2022"
+        }
+      },
+      {
+        "nome": "Marvel’s Guardians Of The Galaxy - PS5",
+        "preço": 251.99,
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/e/e3/Guardians_of_the_Galaxy_jogo_capa.jpg",
+        "trailer": "https://youtu.be/NCP9g8cjp-o",
+        "wallpaper": "https://wallpapercave.com/wp/wp9545827.jpg",
+        "slider": {
+          "img1": "https://www.videogamer.com/wp-content/uploads/MGG_2021_09_22_SCR_14_WITHLOGO_EN.jpg",
+          "img2": "https://i.ytimg.com/vi/YDflZh86HR0/maxresdefault.jpg",
+          "img3": "https://img.game-news24.com/2021/10/Marvel-Guardians-Of-The-Galaxy-Highlights-Combat-And-Boss-Battle-In-Gameplay-Footage.jpeg"
+        },
+        "estrelas": 4,
+        "detalhes": {
+          "produtora": "Square Enix", "plataforma": "PS5", "formato": "Blu-ray", "genero": "Ação, Aventura", "lançamento": "26 Outubro 2021"
+        }
+      },
+      {
+        "nome": "Battlefield 2042",
+        "preço": 189.00,
+        "capa": "https://cdn6.campograndenews.com.br/uploads/noticias/2021/06/09/29ciw1s4y4pww.jpg",
+        "trailer": "https://youtu.be/ASzOzrB-a9E",
+        "wallpaper": "https://pbs.twimg.com/media/E3tFPMGX0AML4O5.jpg",
+        "slider": {
+          "img1": "https://img.game-news24.com/2021/10/Gameplay-Trailer-for-Battlefield-2042-Takes-a-Deep-Look-At-Three-New-Maps.jpeg",
+          "img2": "https://cdn.mos.cms.futurecdn.net/62ryjABuyifaRQnsbKhhGD.jpg",
+          "img3": "https://s2.glbimg.com/Vr0S4u-3CaErVopxO6GVKOYU2xk=/0x0:3840x2160/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/W/j/IcGi3xSneqEBZFQBfPNg/revealscreenshot-07-extra02-3840x2160-nologo.png"
+        },
+        "estrelas": 3,
+        "detalhes": {
+          "produtora": "EA Games", "plataforma": "PS4/PS5/XBOX ONE/XBOX SERIES X", "formato": "Blu-ray", "genero": "Ação, First Person Shooter", "lançamento": "19 Novembro 2021"
+        }
+      },
+      {
+        "nome": "Horizon Forbidden West",
+        "preço": 246.50,
+        "capa": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/ki0STHGAkIF06Q4AU8Ow4OkV.png",
+        "trailer": "https://youtu.be/Lq594XmpPBg",
+        "wallpaper": "https://preview.redd.it/mbxsnoqtn3l71.jpg?width=3840&format=pjpg&auto=webp&s=8d9e62d26af45cdea339eab12abb68ff004dd728",
+        "slider": {
+          "img1": "https://files.tecnoblog.net/wp-content/uploads/2021/05/horizon-forbidden-west-gameplay-700x394.jpeg",
+          "img2": "https://images.squarespace-cdn.com/content/v1/58b3cae5d1758e0132a008c6/1622199813823-6JM1JRFAUFCBTO6PL0L7/HFW-thumbnail.jpg",
+          "img3": "https://meups.com.br/wp-content/uploads/2021/12/serpente-gigantes-de-Horizon-Forbidden-West-intimida-Aloy.jpg"
+        },
+        "estrelas": 0,
+        "detalhes": {
+          "produtora": "Sony", "plataforma": "PS4/PS5", "formato": "Blu-ray", "genero": "Ação, Aventura", "lançamento": "18 Fevereiro 2022"
+        }
+      },
+      {
+        "nome": "Gran Turismo Sport 7 Edição 25º Aniversário",
+        "preço": 378.40,
+        "capa": "https://bdjogos.com.br/capas/7508-gran-turismo-7-playstation-5-capa-1.jpg",
+        "trailer": "https://youtu.be/1tBUsXIkG1A",
+        "wallpaper": "https://meups.com.br/wp-content/uploads/2021/09/Gran-Turismo-7-5.jpg",
+        "slider": {
+          "img1": "https://gmedia.playstation.com/is/image/SIEPDC/gran-turismo-7-screenshot-01-disclaimer-en-01oct20?$native$",
+          "img2": "https://clubedovideogame.com.br/wp-content/uploads/2021/12/Captura-de-tela-2021-12-06-093637.jpg",
+          "img3": "https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-09-09-23-44/gran-turismo-7-recebe-trailer-gameplay-e-data-de-lancamento-1631227440167.jpg/EG11/resize/1200x-1/gran-turismo-7-recebe-trailer-gameplay-e-data-de-lancamento-1631227440167.jpg"
+        },
+        "estrelas": 0,
+        "detalhes": {
+          "produtora": "Playstation", "plataforma": "PS4/PS5", "formato": "Blu-ray", "genero": "Corrida, Simulação", "lançamento": "4 Março 2022"
+        }
+      }
+    ]
+  }
